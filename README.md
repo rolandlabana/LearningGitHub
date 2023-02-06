@@ -21,3 +21,4 @@ Winter Term, 2023
 
 Luca - 02/06/2023 Winter Term, 2023
 
+Judah - 02/06/2023 Winter Term, 2023
