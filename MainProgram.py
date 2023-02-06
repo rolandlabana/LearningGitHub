@@ -9,17 +9,21 @@ print ()
 print ("Jesse Liebman on Feb 2, 2023")
 print ("That's everyone who has committed a change to this file!")
 
-
 print ("Eli Breen")
-
-
 print("Jack Milligan") 
-
 print ("Luke Johnson Senior, Winter term, Class of 2023")
 print ("February 2, 2023")
-
 #printing my name (toby)
 print("Toby")
-
 print("Luca Guiga")
 print("Mateo Esparza")
+print("William Seneviratne")
+print("Esteban Grisalez")
+print("Gregory Cordero")
+print("Michael Johnson")
+print("Skylar Arce")
+print("Esteban Grisalez")
+
+
+
+
