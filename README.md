@@ -7,3 +7,6 @@ Class of 2023
 
 Jack - 2/02/2023
 Second Semester, 2023 
+
+Jesse -02/02/2023
+Winter Term, 2023
