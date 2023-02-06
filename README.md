@@ -1,7 +1,7 @@
 # LearningGitHub
 This repo is to help students learn the basics of GitHub
 
-Toby - 02/02/2023
+Toby - 02/02/2023 Winter/Spring, 2023
 Class of 2023
 Aaron Escude - 02/02/2023
 Class of 2025
