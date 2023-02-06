@@ -19,5 +19,12 @@ Winter Term, 2023
 
 #Eli Winter Term 2023
 
-Luca - 02/06/2023 Winter Term, 2023
+Luca  - 02/06/2023 Winter Term, 2023
+
+
+Michael - 02/06/2023 Winter Term, 2023
+
+
+Skylar Arce - 02/06/2023 Winter Term, 2023
+
 
