@@ -7,14 +7,13 @@ print ('Gabe Villegas')
 print ("Roland Labana-RSL on Jan 2, 2023")
 print ()
 print ("Jesse Liebman on Feb 2, 2023")
+print ("Jack Milligan") 
 print ("Felix Figueroa")
 print ("Aaron Escude")
-
 print ("That's everyone who has committed a change to this file!")
 
 
 print ("Eli Breen")
-print("Jack Milligan") 
 print ("Luke Johnson Senior, Winter term, Class of 2023")
 print ("February 2, 2023")
 #printing my name (toby)
