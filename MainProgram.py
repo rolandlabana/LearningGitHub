@@ -7,6 +7,7 @@ print ('Gabe Villegas')
 print ("Roland Labana-RSL on Jan 2, 2023")
 print ()
 print ("Jesse Liebman on Feb 2, 2023")
+print ("Aaron Escude")
 print ("That's everyone who has committed a change to this file!")
 
 
