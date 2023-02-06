@@ -9,7 +9,7 @@ Jack - 2/02/2023
 Second Semester, 2023 
 Jesse -02/02/2023
 Winter Term, 2022
-Felix - 2/3/ 23 
+#Felix - Winter term 2023
 Winter term
 Winter Term, 2023
 #Eli Winter Term 2023
