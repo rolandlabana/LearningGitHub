@@ -16,6 +16,7 @@ print ("Aaron Escude")
 print ("That's everyone who has committed a change to this file!")
 
 
+print ("Judah Johnson")
 print ("Eli Breen")
 print ("Luke Johnson Senior, Winter term, Class of 2023")
 print ("February 2, 2023")
@@ -29,5 +30,4 @@ print("Michael Johnson")
 print("Skylar Arce")
 print("Esteban Grisalez")
 print ("Allen Liu")
-print ("Judah Johnson")
 print ("Tatiana Winters")
