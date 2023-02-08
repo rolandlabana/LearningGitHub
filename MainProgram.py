@@ -12,6 +12,7 @@ print("Toby Albano on Feb 6, 2023")
 print ("Jack Milligan") 
 print ("Felix Figueroa")
 print ("Aaron Escude")
+print ("Matthew Majzel")
 
 print ("That's everyone who has committed a change to this file!")
 
