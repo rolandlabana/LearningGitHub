@@ -19,7 +19,7 @@ print ("That's everyone who has committed a change to this file!")
 
 print ("Judah Johnson")
 print ("Eli Breen")
-print ("Luke Johnson Senior, Winter term, Class of 2023")
+print ("Luke Johnson on Feb 7, 2023")
 print ("February 2, 2023")
 #printing my name (toby)
 print("Luca Guiga")
