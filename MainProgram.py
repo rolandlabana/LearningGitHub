@@ -14,7 +14,7 @@ print ("Felix Figueroa")
 print ("Aaron Escude")
 print ("Matthew Majzel")
 
-print ("That's everyone who has committed a change to this file!")
+
 
 
 print ("Judah Johnson")
@@ -34,3 +34,4 @@ print ("Allen Liu")
 print ("Tatiana Winters")
 print ("Basheer Maalouf")
 print ("Diego Heard")
+print ("That's everyone who has committed a change to this file!")
