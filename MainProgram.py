@@ -4,9 +4,10 @@
 print ("Welcome to learning GitHub with Mr. Labana")
 print ("Here is everyone who has added to this file....")
 
+
+print ("Created by Roland Labana-RSL on Jan 2, 2023")
+print ("2023 Semesters:")
 print ('Gabe Villegas')
-print ("Roland Labana-RSL on Jan 2, 2023")
-print ()
 print ("Jesse Liebman on Feb 2, 2023")
 print("Toby Albano on Feb 6, 2023")
 print ("Jack Milligan") 
@@ -15,16 +16,9 @@ print ("Aaron Escude")
 print ("Matthew Majzel")
 print("Luca Guiga")
 print("Skylar Arce")
-
-
-
-
 print ("Judah Johnson")
 print ("Eli Breen")
 print ("Luke Johnson")
-print ("February 2, 2023")
-#printing my name (toby)
-
 print("Mateo Esparza")
 print("William Seneviratne")
 print("Esteban Grisalez")
@@ -35,4 +29,8 @@ print ("Allen Liu")
 print ("Tatiana Winters")
 print ("Basheer Maalouf")
 print ("Diego Heard")
+
+print ("2024 Semesters:")
+
 print ("That's everyone who has committed a change to this file!")
+
