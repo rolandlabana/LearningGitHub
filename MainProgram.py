@@ -32,5 +32,6 @@ print ("Diego Heard")
 
 print ("2024 Semesters:")
 
+print ("Judah Johnson")
 print ("That's everyone who has committed a change to this file!")
 
