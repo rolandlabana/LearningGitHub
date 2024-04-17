@@ -26,3 +26,4 @@ Judah Johnson - 02/07/2023 winter term
 Luke Johnson - 02/07/2023 Winter Term, 2023
 #Cole Sordal - Spring Term/2024
 #Judah Johnson - 02/06/2024 Spring Term
+#Ali Panagia - Spring Term/2024
