@@ -24,3 +24,4 @@ Mateo - 02/06/23 Winter Term, 2023
 Gabriel - 02/06/2023 
 Judah Johnson - 02/07/2023 winter term
 Luke Johnson - 02/07/2023 Winter Term, 2023
+Jonathan Naggar 04/17/2024 Spring Term, 2024
