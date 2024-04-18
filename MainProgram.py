@@ -34,6 +34,7 @@ print ("2024 Semesters:")
 print("Dominic Saienni Spring term 2024")
 print ("Judah Johnson")
 print ("Basheer Maalouf, Spring Term/2024")
+print ("Ali Panagia, Spring Term/2024")
 print("Cole Sordal, Spring Term/2024")
 
 print ("That's everyone who has committed a change to this file!")
