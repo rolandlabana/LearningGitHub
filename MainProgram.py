@@ -33,6 +33,7 @@ print ("Diego Heard")
 print ("2024 Semesters:")
 print ("Judah Johnson")
 print ("Basheer Maalouf, Spring Term/2024")
+print ("Ali Panagia, Spring Term/2024")
 
 print ("That's everyone who has committed a change to this file!")
 
