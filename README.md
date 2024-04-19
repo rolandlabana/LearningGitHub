@@ -31,4 +31,5 @@ Dominic Saienni - 04/17/2024 Spring Term
 #Judah Johnson - 02/06/2024 Spring Term
 #Ali Panagia - Spring Term/2024
 #Vivian Boubion- Spring Term/2024
-
+Brody Bentzler - 04/19/24 Spring Term/2024
+#Jonathan Naggar - 04/19/2024, Spring Term
